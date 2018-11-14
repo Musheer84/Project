@@ -185,6 +185,7 @@
       </li>
            
         <li><a href="contact.jsp"> <span class="glyphicon glyphicon-earphone"></span>Contact Info</a></li>
+        <li><a href="index.html"> <span class="glyphicon glyphicon-home"></span>Home</a></li>
       </ul>
       </div>
   </div>
